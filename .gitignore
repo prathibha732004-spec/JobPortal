@@ -1,0 +1,4 @@
+target/
+maven_dir/
+.vscode/
+*.class
