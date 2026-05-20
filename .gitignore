@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled class file
 /target/
 /maven_dir/
@@ -38,3 +39,9 @@ hs_err_pid*
 
 # User-specific uploads
 /uploads/
+=======
+target/
+maven_dir/
+.vscode/
+*.class
+>>>>>>> b55a3703b788f85d649ea9ed2690019c753241ea
